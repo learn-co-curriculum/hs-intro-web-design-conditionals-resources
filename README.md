@@ -9,3 +9,4 @@ Working on some if-statements feeling like you want to pull your hair out with f
  + [Web Cheat Sheet](http://webcheatsheet.com/javascript/if_else_switch.php)
 
  + [Stack Overflow Question](http://stackoverflow.com/questions/4005614/elseif-syntax-in-javascript)
+<a href='https://learn.co/lessons/hs-intro-web-design-conditionals-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
